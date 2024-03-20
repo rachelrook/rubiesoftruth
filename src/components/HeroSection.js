@@ -7,7 +7,7 @@ import './Navbar.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/clouds.mp4' autoPlay loop muted fixed />
+      <video src='/videos/pink-clouds.mp4' autoPlay loop muted fixed />
       <h1>Charm is deceptive, and beauty is fleeting; </h1>
       <p className='center'>but a woman who fears the Lord is to be praised.</p><br></br>
       <div className='center'>

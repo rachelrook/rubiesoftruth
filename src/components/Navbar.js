@@ -59,8 +59,8 @@ function Navbar() {
               </li>
 
               <li className='nav-item'>
-                <a href="http://rubiesoftruth.com" className='nav-links' onClick={closeMobileMenu}>
-                  Sanctification
+                <a href="/blog" className='nav-links' onClick={closeMobileMenu}>
+                  blog
                 </a>
               </li>
               {/* <li className='nav-item'>
