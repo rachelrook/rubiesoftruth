@@ -12,7 +12,7 @@ function HeroSection() {
       <p className='center'>but a woman who fears the Lord is to be praised.</p><br></br>
       <div className='center'>
       <Link to="/">
-        <img className='circle-me' src='/images/rubyruth.jpg' alt="Rachel Headshot"/>
+        <img className='circle-me' src='/images/rot-cover.jpg' alt="Rachel Headshot"/>
         </Link>
       </div>
     
