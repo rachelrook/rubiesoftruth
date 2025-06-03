@@ -47,12 +47,6 @@ function Navbar() {
               </li>
 
               <li className='nav-item'>
-                <Link to='/aboutme' className='nav-links' onClick={closeMobileMenu}>
-                  ministry
-                </Link>
-              </li>
-
-              <li className='nav-item'>
                 <Link to='/projects' className='nav-links' onClick={closeMobileMenu}>
                   prayers
                 </Link>

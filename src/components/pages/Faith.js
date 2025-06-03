@@ -3,9 +3,19 @@ import "../../App.css";
 
 export default function Faith() {
     
-    return <h1 className="ph-text f-25">“For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.”
+    return <h1 className="ph-text f-25">I believe in one God, Father Almighty, Creator of heaven and earth, and of all things visible and invisible.<br></br>
 
-    —Ephesians 2:8 - 10</h1>
+    And in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all ages; Light of Light, true God of true God, begotten, not created, of one essence with the Father through Whom all things were made. Who for us men and for our salvation came down from heaven and was incarnate of the Holy Spirit and the Virgin Mary and became man. He was crucified for us under Pontius Pilate, and suffered and was buried; And He rose on the third day, according to the Scriptures. He ascended into heaven and is seated at the right hand of the Father; And He will come again with glory to judge the living and dead. His kingdom shall have no end.<br></br>
+    
+    And in the Holy Spirit, the Lord, the Creator of life, Who proceeds from the Father, Who together with the Father and the Son is worshipped and glorified, Who spoke through the prophets.<br></br>
+    
+    In one, holy, catholic, and apostolic Church.<br></br>
+    
+    I confess one baptism for the forgiveness of sins.<br></br>
+    
+    I look for the resurrection of the dead, and the life of the age to come.<br></br>
+    
+    Amen.</h1>
     
     
 }
