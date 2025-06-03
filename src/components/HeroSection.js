@@ -8,11 +8,11 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <video src='/videos/pink-clouds.mp4' autoPlay loop muted fixed />
-      <h1>Charm is deceptive, and beauty is fleeting; </h1>
-      <p className='center'>but a woman who fears the Lord is to be praised.</p><br></br>
+      <h1 className='p1'>Charm is deceptive, and beauty is fleeting; </h1>
+      <p className='center p1'>but a woman who fears the Lord is to be praised.</p><br></br>
       <div className='center'>
       <Link to="/">
-        <img className='circle-me' src='/images/rot-over.jpg' alt="Rachel Headshot"/>
+        <img className='circle-me' src='/images/rubyruth.jpg' alt="Rachel Headshot"/>
         </Link>
       </div>
     
